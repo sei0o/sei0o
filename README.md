@@ -1,7 +1,6 @@
 
-
 - [Detailed profile](https://o0i.es/profile.html) in Japanese
-- Security concerns? Send DM to [@sei0o](http://twitter.com/sei0o) or email me at sei0okun_at_gmail.com
+- Security concerns? DM [@sei0o](http://twitter.com/sei0o) or email sei0okun_at_gmail.com
 
 <!--
 **sei0o/sei0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
